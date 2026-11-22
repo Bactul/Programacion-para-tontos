@@ -7,15 +7,12 @@ Cada libro explica una tecnología desde cero, sin rodeos, con ejemplos práctic
 
 | # | Libro | Temas | Estado | Descargar |
 |---|---|---|---|---|
-| 1 | **Backend .NET para tontos** | [C#, ASP.NET Core, APIs REST, Entity Framework] | ✅ Disponible | [PDF](libros/backend-dotnet-para-tontos/backend-dotnet-para-tontos.pdf) |
-
-<br clear="right">
+| 1 | **Backend .NET para tontos** | C#, ASP.NET Core, APIs REST, Entity Framework | ✅ Disponible | [PDF](<Backend .NET para tontos.pdf>) |
 
 ## Cómo leerlos
 
 - **En línea:** abre el PDF desde la tabla de arriba; GitHub lo muestra en el navegador.
 - **Descargar:** entra a [Releases](../../releases) para bajar la última versión de cada libro.
-- **Código:** cada libro tiene una carpeta `codigo/` con los ejemplos de cada capítulo.
 
 ## Erratas y sugerencias
 
@@ -28,7 +25,7 @@ Abre un [issue](../../issues) indicando el libro, el capítulo y la página.
 
 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**
 
-Copyright (c) 2026 [Tu nombre completo o seudónimo]
+Copyright (c) 2026 Carlos Acosta
 
 Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional.
 
