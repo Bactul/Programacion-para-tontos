@@ -1,4 +1,4 @@
-# 📚 Para tontos
+# 📚 Programación para tontos
 
 Serie de libros de programación escritos por **Carlos Acosta**, en español y de descarga libre.
 Cada libro explica una tecnología desde cero, sin rodeos, con ejemplos prácticos y código que puedes ejecutar.
